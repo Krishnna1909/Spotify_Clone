@@ -5,25 +5,25 @@ This project aims to replicate the basic functionality of Spotify’s web player
 
 ****🚀 Features****
 
-**Play/Pause music
+Play/Pause music
 Next/Previous song navigation
 Dynamic updating of song details (name, artist, cover)
 Interactive progress bar
 Responsive and clean UI
-Smooth audio controls**
+Smooth audio controls
 
 ****🛠️ Technologies Used****
 
-**HTML5
+HTML5
 CSS3
-JavaScript (Vanilla JS)**
+JavaScript (Vanilla JS)
 
 ****🙌 Acknowledgements****
 
-**CodeWithHarry for the amazing tutorial.
-Spotify for design inspiration.**
+CodeWithHarry for the amazing tutorial.
+Spotify for design inspiration.
 
 ****📝 License****
 
-**This project is licensed under the MIT License.**
+This project is licensed under the MIT License.
 
